@@ -1,9 +1,4 @@
-# Optimización -1er Cuatrimestre de 2017 — Primer cuatrimestre de 2017
-
-## Equipo docente
-
-- **Clases teóricas:** Javier Etcheverry
-- **Clases prácticas:** Florencia Fernández Slezak, Gastón Bujía
+# Optimización — Primer cuatrimestre de 2017
 
 ## Prácticas
 
@@ -16,17 +11,13 @@
 - [2014](Examen2014.pdf)
 - [tesis](MR20775thesis.pdf)
 - [Modelo de Mumford y Shah](MumfordShahRecentSurvey.pdf)
-- [.pdf](optimizacion3-2017.pdf)
+- [optimizacion3-2017.pdf](optimizacion3-2017.pdf)
 - [2016](Parcial2016.pdf)
 - [golf](putt.pdf)
-- [.pdf](TP2-2017.pdf)
-- [.pdf](TP3-2017.pdf)
+- [TP2-2017.pdf](TP2-2017.pdf)
+- [TP3-2017.pdf](TP3-2017.pdf)
 - [trenes, tobogán, golf](trajopt_OptEng.pdf)
 - [órbitas](tutorial3.pdf)
-
-## Bibliografía
-
-- Laboratorio
 
 ## Página original
 
